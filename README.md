@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElaanMoazen
-- 👀 I’m interested in ... ML
+- 👀 I’m interested in ... ML 
 - 🌱 I’m currently learning ... Data Scinece
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Google CDC - Saudi Arabia🇸🇦
 - 📫 How to reach me ... elaan.a.y.m@gmail.com
 
 <!---
