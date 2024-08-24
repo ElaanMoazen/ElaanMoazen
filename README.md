@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElaanMoazen
-- 👀 I’m interested in ... AI & DL 
+- 👀 I’m interested in ... AI & Deep Learning 
 - 🌱 I’m currently a " Data Scientist "
 - 💞️ I’m looking to collaborate on ... Google CDC - Saudi Arabia🇸🇦
 - 📫 How to reach me ... elaan.a.y.m@gmail.com
